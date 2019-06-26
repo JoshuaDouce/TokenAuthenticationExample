@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tutorial.AspNetSecurity.RouxAcademy", "Tutorial.AspNetSecurity.RouxAcademy\Tutorial.AspNetSecurity.RouxAcademy.csproj", "{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.AspNetSecurity.TokenService", "Tutorial.AspNetSecurity.TokenService\Tutorial.AspNetSecurity.TokenService.csproj", "{B384CB4D-27B1-4DA4-A963-0C8F2B4B04DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.AspNetSecurity.WebClient", "Tutorial.AspNetSecurity.WebClient\Tutorial.AspNetSecurity.WebClient.csproj", "{8E8CE5A1-25DC-432F-9BD4-1D65E6EF5815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5864D9-5FEE-4086-B6C7-2B2ED282DEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B384CB4D-27B1-4DA4-A963-0C8F2B4B04DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B384CB4D-27B1-4DA4-A963-0C8F2B4B04DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B384CB4D-27B1-4DA4-A963-0C8F2B4B04DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B384CB4D-27B1-4DA4-A963-0C8F2B4B04DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E8CE5A1-25DC-432F-9BD4-1D65E6EF5815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8CE5A1-25DC-432F-9BD4-1D65E6EF5815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8CE5A1-25DC-432F-9BD4-1D65E6EF5815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8CE5A1-25DC-432F-9BD4-1D65E6EF5815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
